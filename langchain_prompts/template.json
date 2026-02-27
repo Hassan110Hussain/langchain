@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "selected_length",
+        "selected_paper",
+        "selected_style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "You are an expert researcher and teacher. \nYour task is to explain the research paper \"{selected_paper}\" in the following way:\n\n- **Style**: {selected_style}\n- **Length**: {selected_length}\n\nMake sure the explanation is accurate, clear, and tailored to the chosen style and length.\nAvoid adding unrelated information.\n    ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

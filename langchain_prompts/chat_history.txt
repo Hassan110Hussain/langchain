@@ -1,0 +1,2 @@
+HumanMessage(content="Explain the rules of cricket in simple terms.")
+AIMessage(content="Cricket is a bat-and-ball game played between two teams of 11 players...")
